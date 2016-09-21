@@ -1,0 +1,14 @@
+{
+  "name": "fibonacci",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.0.2",
+    "unit.js": "^2.0.0"
+  }
+}
